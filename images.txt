@@ -4,19 +4,5 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 
-{
-  "registry-mirrors": [
-    "https://dockerhub.azk8s.cn",
-    "https://reg-mirror.qiniu.com",
-    "https://registry.docker-cn.com",
-    "http://hub-mirror.c.163.com",
-    "https://3laho3y3.mirror.aliyuncs.com",
-    "http://f1361db2.m.daocloud.io",
-    "https://mirror.ccs.tencentyun.com",
-    "https://docker.m.daocloud.io",
-    "https://noohub.ru",
-    "https://huecker.io",
-    "https://dockerhub.timeweb.cloud"
-  ]
 }
 
